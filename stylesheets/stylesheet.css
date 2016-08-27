@@ -74,6 +74,8 @@ a:hover {
 	text-align: center;
 	/*background-color: #159957;*/
 	background-image: url(../img/gudujianshi.jpg);
+	background-size: cover;
+	width: 100%;
 }
 
 @media screen and (min-width: 64em) {
